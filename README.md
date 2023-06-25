@@ -6,7 +6,9 @@ The dataset used in this project consists of Spotify track information, includin
 
 ## Project Structure
 data/: Directory containing the dataset file(s) used in the analysis.
+
 notebooks/: Directory containing Jupyter notebooks used for data exploration, analysis, and visualization.
+
 README.md: This file, providing an overview of the project and instructions for running the code.
 
 ## Dependencies
