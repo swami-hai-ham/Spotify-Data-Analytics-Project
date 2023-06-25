@@ -24,3 +24,7 @@ Discuss any conclusions or implications of the analysis.
 
 ## Contributing
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to submit a pull request.
+
+## Also this project was to  Validate my data analytics with Python certificate
+
+![Certificate](dAfree.png)
