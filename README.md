@@ -27,4 +27,4 @@ Contributions to this project are welcome! If you find any issues or have ideas 
 
 ## Also this project was to  Validate my data analytics with Python certificate
 
-![Certificate](dAfree.png)
+![Certificate](dAfree.PNG)
